@@ -1,16 +1,15 @@
 @echo OFF
-:: Window Attributes  
 TITLE Restore Winbox Sessions to Default
 COLOR 1F  
 mode CON: cols=51 lines=30
 echo.  
-echo  ‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹
-echo  ›                                               ›
-echo  › Restore Winbox Sessions to Default            ›
-echo  › By BuanaNET SECURE, Okt 2019                  ›
-echo  › fb.com/buananet.pangkalanbun                  ›
-echo  ›                                               ›
-echo  ﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂ
+echo  √ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú
+echo  √ù                                               √ù
+echo  √ù Restore Winbox Sessions to Default            √ù
+echo  √ù By BuanaNET SECURE, Okt 2019                  √ù
+echo  √ù fb.com/buananet.pangkalanbun                  √ù
+echo  √ù                                               √ù
+echo  √ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü
 echo.  
 :choice
 set /P c=Restore Winbox Session[Y/N]?
