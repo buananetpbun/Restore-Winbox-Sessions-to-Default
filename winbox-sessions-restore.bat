@@ -7,7 +7,7 @@ echo  ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ
 echo  Ý                                               Ý
 echo  Ý Restore Winbox Sessions to Default            Ý
 echo  Ý By BuanaNET SECURE, Okt 2019                  Ý
-echo  Ý fb.com/buananet.pangkalanbun                  Ý
+echo  Ý fb.com/buananet.pbun                          Ý
 echo  Ý                                               Ý
 echo  ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
 echo.  
