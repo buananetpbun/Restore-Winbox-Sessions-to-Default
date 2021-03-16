@@ -3,18 +3,19 @@ Restore Winbox Sessions to Default  for Mikrotik with Bacth File
 
 ![image](https://user-images.githubusercontent.com/42666125/111256937-c541ea80-864c-11eb-9b10-e4e33f758077.png)
 
-<pre  style="font-family:arial;font-size:12px;border:1px dashed #CCCCCC;width:99%;height:auto;overflow:auto;background:#f0f0f0;;background-image:URL(http://2.bp.blogspot.com/_z5ltvMQPaa8/SjJXr_U2YBI/AAAAAAAAAAM/46OqEP32CJ8/s320/codebg.gif);padding:0px;color:#000000;text-align:left;line-height:20px;"><code style="color:#000000;word-wrap:normal;"> @echo OFF  
+<pre>
+ @echo OFF  
  TITLE Restore Winbox Sessions to Default  
  COLOR 1F   
  mode CON: cols=51 lines=30  
  echo.   
- echo ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ  
- echo Ý                        Ý  
- echo Ý Restore Winbox Sessions to Default      Ý  
- echo Ý By BuanaNET SECURE, Okt 2019         Ý  
- echo Ý fb.com/buananet.pangkalanbun         Ý  
- echo Ý                        Ý  
- echo ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß  
+ echo =========================================
+ echo =
+ echo = Restore Winbox Sessions to Default
+ echo = By BuanaNET SECURE, Okt 2019
+ echo = fb.com/buananet.pangkalanbun
+ echo = 
+ echo =========================================
  echo.   
  :choice  
  set /P c=Restore Winbox Session[Y/N]?  
@@ -40,6 +41,6 @@ Restore Winbox Sessions to Default  for Mikrotik with Bacth File
  exit  
  :winbox-no  
  exit  
-</code></pre>
+ </pre>
 
 <img style="float:right; padding-top:10px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbuananetpbun.github.io%2F&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
