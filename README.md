@@ -10,11 +10,9 @@ Restore Winbox Sessions to Default  for Mikrotik with Bacth File
  mode CON: cols=51 lines=30  
  echo.   
  echo =========================================
- echo =
  echo = Restore Winbox Sessions to Default
  echo = By BuanaNET SECURE, Okt 2019
  echo = fb.com/buananet.pangkalanbun
- echo = 
  echo =========================================
  echo.   
  :choice  
