@@ -1,5 +1,5 @@
 ## RESTORE WINBOX SESSIONS TO DEFAULT
-Restore Winbox Sessions to Default  for Mikrotik with Bacth File
+Restore Winbox Sessions to Default  for Mikrotik with Batch File
 
 ![image](https://user-images.githubusercontent.com/42666125/111256937-c541ea80-864c-11eb-9b10-e4e33f758077.png)
 
